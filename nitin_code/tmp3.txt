@@ -1,0 +1,1357 @@
+results set 2
+2010-06-01 00:00:00
+2010-07-16 00:00:00
+0
+2010-07-16 00:00:00
+2010-08-30 00:00:00
+1
+2010-08-30 00:00:00
+2010-10-14 00:00:00
+2
+2010-10-14 00:00:00
+2010-11-28 00:00:00
+3
+2010-11-28 00:00:00
+2011-01-12 00:00:00
+4
+2011-01-12 00:00:00
+2011-02-26 00:00:00
+5
+2011-02-26 00:00:00
+2011-04-12 00:00:00
+6
+2011-04-12 00:00:00
+2011-05-27 00:00:00
+7
+2011-05-27 00:00:00
+2011-07-11 00:00:00
+8
+2011-07-11 00:00:00
+2011-08-25 00:00:00
+9
+2011-08-25 00:00:00
+2011-10-09 00:00:00
+10
+2011-10-09 00:00:00
+2011-11-23 00:00:00
+11
+2011-11-23 00:00:00
+2012-01-07 00:00:00
+12
+2012-01-07 00:00:00
+2012-02-21 00:00:00
+13
+2012-02-21 00:00:00
+2012-04-06 00:00:00
+14
+2012-04-06 00:00:00
+2012-05-21 00:00:00
+15
+2012-05-21 00:00:00
+2012-07-05 00:00:00
+16
+2012-07-05 00:00:00
+2012-08-19 00:00:00
+17
+2012-08-19 00:00:00
+2012-10-03 00:00:00
+18
+2012-10-03 00:00:00
+2012-11-17 00:00:00
+19
+2012-11-17 00:00:00
+2013-01-01 00:00:00
+20
+2013-01-01 00:00:00
+2013-02-15 00:00:00
+21
+2013-02-15 00:00:00
+2013-04-01 00:00:00
+22
+2013-04-01 00:00:00
+2013-05-16 00:00:00
+23
+2013-05-16 00:00:00
+2013-06-30 00:00:00
+24
+2013-06-30 00:00:00
+2013-08-14 00:00:00
+25
+2013-08-14 00:00:00
+2013-09-28 00:00:00
+26
+2013-09-28 00:00:00
+2013-11-12 00:00:00
+27
+2013-11-12 00:00:00
+2013-12-27 00:00:00
+28
+2013-12-27 00:00:00
+2014-02-10 00:00:00
+29
+2014-02-10 00:00:00
+2014-03-27 00:00:00
+30
+2014-03-27 00:00:00
+2014-05-11 00:00:00
+31
+2014-05-11 00:00:00
+2014-06-25 00:00:00
+32
+2014-06-25 00:00:00
+2014-08-09 00:00:00
+33
+2014-08-09 00:00:00
+2014-09-23 00:00:00
+34
+2014-09-23 00:00:00
+2014-11-07 00:00:00
+35
+2014-11-07 00:00:00
+2014-12-22 00:00:00
+36
+2014-12-22 00:00:00
+2015-02-05 00:00:00
+37
+2015-02-05 00:00:00
+2015-03-22 00:00:00
+38
+2015-03-22 00:00:00
+2015-05-06 00:00:00
+39
+2015-05-06 00:00:00
+2015-06-20 00:00:00
+40
+2015-06-20 00:00:00
+2015-08-04 00:00:00
+41
+2015-08-04 00:00:00
+2015-09-18 00:00:00
+42
+2015-09-18 00:00:00
+2015-11-02 00:00:00
+43
+2015-11-02 00:00:00
+2015-12-17 00:00:00
+44
+2015-12-17 00:00:00
+2016-01-31 00:00:00
+45
+2016-01-31 00:00:00
+2016-03-16 00:00:00
+46
+2016-03-16 00:00:00
+2016-04-30 00:00:00
+47
+2016-04-30 00:00:00
+2016-06-14 00:00:00
+48
+pto
+xtags-org
+node-hkdf
+pytest-mozwebqa
+spicedham
+mozilla-taskboard
+fhr-v2-v4-executive
+popcorn_maker
+webmaker-whitepaper
+elasticutils
+node-firefox-connect
+captain
+webmaker-moderator
+mozfest-event-app
+tls-observatory
+vending-machine
+webmaker-screenshot
+areweslimyet-benchtester
+ichnaea
+personas-plus
+opsec-puppet
+mwc
+popcorn-docs
+kuma
+awsboxen
+github-org-scripts
+skywriter
+activities
+aestimia-client
+jupyter-spark
+geckodriver
+fxa-auth-db-server
+sugardough
+minion-ssl-plugin
+fx36start
+solitude-auth
+addon-registration
+bleach
+eyedee.me
+node-firefox-marketplace
+mortar-game-stub
+fireplace
+badg.us
+moz-git-tools
+moz-ldap
+node-webmaker-i18n
+marketplace-core-modules
+pymake
+icongrid
+marketplace-template
+bugherder
+git-bz-moz
+loop-client
+testdaybot
+loady
+phonebook
+persona-yahoo-bridge
+trunion
+make-valet
+mortar-list-detail
+webmaker.org
+addons-frontend
+weaveweb
+simulated-devices
+signingworker
+fxa-deployment
+pkix-compatibility-testing
+happyforms
+minion
+wikimo_content
+dryice
+brick-boilerplate
+universal-search-addon
+build-jacuzzi-allocator
+mozlog
+node-firefox-find-app
+amo-loadtest
+plugins
+openbadges-specification
+petitions.mozilla.org
+jekyll-offline
+node-vtt
+secret-squirrel
+www-moz-works
+node-firefox-examples-gulp
+call.mozilla.org
+brackets
+minion-zap-plugin
+kanbugger
+jira2moztrap
+srihash.org
+fjord
+fxa-notification-server
+peptest
+ambient-boxen
+wp-web-push
+crashathon
+mozfest-program
+status.persona.org
+django-badger
+archiver_toolkit
+playdoh
+mozlando-frontend-demo
+hera
+learning-networks
+pontoon
+affiliates
+payments-client
+community-ops
+crontabber
+splice
+parapara
+flame-on
+pdfjs-dist
+addon-sdk
+addon-compatibility-reporter
+quality.mozilla.org
+wp-sw-manager
+adhoctribution
+SocialShare
+shove
+cleopatra
+FlightDeck-selenium
+tsaws
+ff-tool
+badgekit-backpack
+cookiemonster
+fhr-r-rollups
+amo-dashboard
+webmaker-firehose
+progressive-apps-hq
+community-spaces
+repotheweb
+openhab2-addons
+Affiliates-Tests
+murmur
+opensearch
+build-mozharness
+tuxedo
+prowac
+pdf.js
+areweslimyet
+mozpay-js
+kuma-lib
+geodude
+wp-add-to-homescreen
+jupyter-notebook-gist
+metrics-graphics
+tctalker
+devtools-docs
+vtt.js
+commbadge
+openhab
+marketplace-loadtest
+mozwebqa-examples
+PyVEP
+bedrock
+mig-sandbox
+content-2012.mozillafestival.org
+moz-corsica
+masche
+webifyme
+marketplace-content-tools
+OriginOnly
+addon-sdk-sdocs
+marketing-project-template
+eoy-fundraising
+bughub
+dxr
+project_haiku.iot
+mozilla-club-activity-html-puzzle-boxes
+universal-search-download-page
+mozmill
+community.openbadges.org
+mortar-hello-world
+ouija
+OpenDesign
+peekaboo
+community-ux
+example-search-addon
+python_moztelemetry
+cerberus
+janus-image-worker
+soup
+fhr-jelly
+appmaker-components
+ceci-bower
+webdriver-rust
+pulse_actions
+treeherder-ui-deprecated
+pointer.js
+data-site-toplists
+mcom-tests
+f1
+trypersona.org
+picl-mocks
+telemetry-dashboard
+fireplay-sublime
+loci
+kpiggybank
+batucada
+mortar-template-template
+referral-board
+balrog-ui
+feedthefox
+e10s_analyses
+webmaker-ffos
+osmdroid
+Marketplace.Python
+django-tidings
+spartacus
+123done
+receiptverifier
+telemetry-server
+webmaker-rid
+gecko-projects
+relman-auto-nag
+foxyeah
+loop-test
+webmaker-events
+mozillawebmakerproxy.net
+contacts-sync-prototype
+awsbox
+janus-addon
+mozwebqa-bot
+mozilla-club-guides
+bidpom
+telemetry-aggregator
+mozilla-pootle-extras
+viewsourceconf-theme
+nimble.webmaker.org
+mod_browserid
+mozdownload
+thunderhug
+api.mozillascience.org
+mozillians-tests
+mozmaker-templates
+marytts
+django_appcache
+fennec-search
+webmaker-metrics
+webmaker-core
+caseconductor-platform
+moztrap-vendor-lib
+firefox-flicks
+django-moz-header
+idea-town-addon
+appmaker-words
+chief
+blog.webmaker.org
+basket
+firefox-app-validator-icons
+webmaker-app-cordova
+treeherder
+fxpay
+fxa-local-dev
+moztrap-reqs
+doozer
+socialapi-dev
+call-congress
+mod_authnz_persona
+fifi
+http_helper
+id.webmaker.org
+devtools-perf-game
+deis-backup-service
+django-product-details
+socorro
+picl-desktop-client
+playdoh-lib
+openbadges-bakery
+medusa
+eoy-charts
+basket-lib
+vaani
+zippy
+addons-linter
+Community-Feedback
+One-Mozilla-blog
+scanjs
+participation-leaders-accountability
+reps-mentorship
+mciconf
+web-components
+openvpn
+betachannel
+identity-ops
+pdf.js-bot
+cef
+fxa-scrypt-helper
+audit-go
+b2gpopulate
+release-blog
+build-tools
+Deferred
+apps.mozillalabs.com
+badgeopolis
+puente
+moztrap
+ee-infra-jenkins
+qmo-tests
+mofo-allhands
+rescuefox
+identity-pubkeys
+winchan
+pjs
+mozwebqa-dashboard
+picl-tabs
+minion-frontend
+http-observatory-website
+takebacktheweb.mozilla.org
+webmaker-code-of-conduct
+galaxy-api
+partinfra-jenkins
+recroom
+watchdog-visualize-passwords
+makedrive
+vaani.iot
+datazilla
+node-webmaker-loginapi
+browserid_deployer
+hardhat
+addons-nginx
+etherpad-lite
+django-piston
+park-warden
+Firefox-Shield
+monolith
+node-kvstore
+mozillians
+language-mapping-list
+sciencelab
+input.mozilla.org
+newnewtab
+makerstrap
+minion-garmr-plugin
+mozspeechcollect
+webowonder-lib
+signing-service
+django-memcached-pool
+appsync
+rr
+hotdish
+fathom
+content
+remo-tests
+all-aboard
+reflex-react-driver
+node-firefox-launch-app
+release_dash
+teach-api
+openbadges-badges
+corsica
+newtab-dev
+fxa-oauth-client
+webmaker-translation-stats
+build-talos
+jschannel
+tofino-electron
+server-share-core
+tabzilla
+pulsetranslator
+plugindir
+migfw
+moztrap-tests
+wp-calypso
+mortar-tabs-component
+sample-tc-github-project
+django-browserid
+grunt-i18n-abide
+connected-devices-experiments
+prospector
+marketplace-frontend-docs
+mozilla-ignite
+personatestuser.org
+telemetry-airflow
+yogafire
+blushproof
+jydoop
+openbadges-backpack
+mortar
+monolith-client
+b2ghaystack
+smarthome
+fxa-bugzilla-mirror
+addon-builder-helper
+fxa-retention-metrics
+picl-oldsync
+mobile-opportunity
+elmo
+discoplace
+openbadges-discovery
+fx-share-addon
+MakeAPI-Gallery
+galaxy-api-python-client
+embedly-proxy
+mofo-schedule-app
+layerscope
+participation-heartbeat
+infernyx
+fxoss
+narcissus
+browserid-ios
+webrtc-landing
+emojione-colr
+build-relengapi-clobberer
+webmaker-addons
+testdroid-marionette-plugin
+publish.webmaker.org
+galaxy.js-mobile-gamepad
+idea-town-meta
+node-janus
+masterfirefoxos-l10n
+codemoji
+self-repair-server
+mp4parse-rust
+connect-cachify
+mozregression
+marketplace-constants
+badgekit-api-client
+python-spidermonkey
+oldpto
+telemetry-batch-view
+webmaker-profile
+webmaker-auth-client
+source-map
+smithers
+fxa-auth-server
+mozilla-club-activity-web-chef
+build-relengapi
+gecko-dev
+version-control-tools
+theopenstandard
+openbadges.org
+testpilot
+Reps
+datazilla-metrics
+kitsune
+minion-zest-plugin
+betafarm
+pulseguardian
+Gallery-Maker
+grunt-l10n-lint
+service-map
+pontoon-intro
+wp-offline-content
+mozilla-club-activity-kraken-the-code
+socorro-collector
+mozilla-cloud-services-logger
+kpi-dashboard
+funfactory
+partinfra-playbooks
+marketplace-payment-provider-spec
+node-firefox
+mozilla-ignite-learning-lab-demos
+mozilla-club-activity-hack-the-news
+webmaker-nav
+activity-stream
+openbadges-bakery-service
+mozmoderator
+apk-cli
+nunjucks-docs
+rbbz
+app-validator
+mortar-privileged-empty-app
+valence
+django-jobvite
+mofo-2016
+mozilla_ci_tools
+releasehealth-bot
+persona.org
+devtools
+science.mozilla.org
+spade
+ember-cli-fxos
+angle
+payments-saucelabs-browsers
+emr-bootstrap-spark
+lean-data-practices
+bakery
+socialapi-demo
+payments
+id-specs
+remote-newtab
+phonedash
+releases-comm-central
+fxa
+persona-gmail-bridge
+sawmill
+commonplace
+apps-design
+blekko
+neo
+webmaker-profile-2
+events.webmaker.org
+sasl-browserid
+Campus-Program
+mortar-appinstall
+webmaker-login-ux
+ashes
+telemetry-tools
+htmlsanitizer.org
+standup-irc
+loop-client-l10n
+chronicle
+npm-lockdown
+stoneridge
+napkin
+TBTWBuildChallenge
+datazilla_client
+shumway-whitelist
+graphs
+chronicle-addon
+MozDef
+mozilla-presentation-templates
+fxemoji
+webmaker-mediasync
+eideticker-ci
+uk-community
+build-funsize
+build-relengdocs
+net-speech-api
+speakeasy
+openbadges.org-static
+fxa-checkbox
+compatipede
+fxa-customs-server
+web-forward
+django-post-request-task
+wptview
+css-grid-inspector
+qa-mozmill-tests
+webowonder-demos
+fxa-basket-proxy
+twitter-address-bar-search
+wiki-tests
+MoBuildbotTimings
+build-cleanslate
+mozorg-js-external
+webdev-contributors
+webprod-deis
+zamboni-dashboard
+high-fidelity
+fxa-content-server
+ispdb
+build-mar
+browserid-local-verify
+python_mozaggregator
+webrtc
+node-srp
+playdoh-docs
+splash.mozilla-ignite.org
+platform-analysis
+django-csp
+jsThreads
+coversheet
+webmaker-auth
+firefox-for-android-addons
+chat.mozillafoundation.org
+pluotsorbet
+build-puppet
+jugband-react
+hive-django
+reflex-virtual-dom-driver
+iacomus
+marketplace-tests
+treeherder-node
+persona-ios
+kumascript
+gameon
+npapi-sdk
+zamboni
+mozwebqa-test-templates
+spark-eol
+popcorn-js
+2014.mozillafestival.org
+itisatrap
+openbadges-badgekit
+videur
+thimble.mozilla.org
+nunjucks
+newtab
+school-of-webmaking
+html5-lint
+webmaker-events-service
+bloodflow
+openbadger-client
+browsermirror
+Community-Gatherings
+normandy-actions
+tiles_queue_processor
+node-webmaker-postalservice
+nocturnal
+marketplace-docs
+tc-coalesce
+mdn-tests
+motown
+eideticker
+apk-factory-library
+unicode-slugify
+webmaker-tests
+home-snippets-server
+galaxy
+spidernode
+mozbadging
+build-proxxy
+talkilla
+webmaker-launch
+Negatus
+build-relengapi-slaveloan
+irc-iplimit
+mdn-devtool
+build-fwunit
+mrburns
+user-advocacy
+webmaker-ui
+legal-docs
+marketplace-api-mock
+spark
+clouseau
+addons-server
+telemetry-onboarding
+libadb.js
+styleguide
+libaudit-go
+marketplace-tests-gaia
+gcli
+plugincheck
+osumo
+interest-dashboard
+csp-logger
+build-mapper
+pretty-fast
+normandy-addon
+BrowserQuest
+http-observatory
+html-presentation-templates
+normandy
+buddyup
+gombot-chrome
+build.webmaker.org
+mofo-transaction-storage
+webmaker-analytics
+cardano
+platform-status
+fxa-jwtool
+picl-keyserver
+payments-ui
+Java-WebSocket
+mozplatformqa-jenkins
+apk-factory-service
+Socorro-Tests
+steeplechase
+home-snippets-switcher
+webmaker-app-publisher
+api.webmaker.org
+charts
+makeapi-docs
+studiomofo
+team-list
+payments-env
+wiki.mozilla.org
+reflex
+snippets-tests
+idea-town-app
+ssh_scan
+friendlycode
+lightbeam
+PyFxA
+seasponge
+picl-server
+onyx
+fifiback
+anodejsholidayseason
+Marketplace.PHP
+node-firefox-start-simulator
+badge-the-world
+standup
+FlightDeck-lib
+openwebapps
+http-observatory-cli
+configman
+mofo-deprecation
+oauthorizer
+fxa-auth-db-mysql
+node-firefox-find-ports
+restmail.net
+allizom_org
+caseconductor-ui
+apk-signer
+marketplace-stats
+mortar-devtools
+fxa-easter-egg
+hello-tests
+admin_for_mozilla
+remo
+frappe
+makerparty
+b2gperf
+inneractive
+templeton
+marketplace-env
+calculator
+balrog
+node-firefox-build-tools
+vinz-clortho
+ateam-bootcamp
+addons.mozilla.org-mod
+adbhelper
+bitly-secret-service
+universal-search-content
+foundation-security-advisories
+airmozilla
+process-releases
+aestimia
+firefoxos-quick-start
+webowonder
+webmaker-kits-builder
+learning-pathways-whitepaper
+generator-recroom
+normandy-compose
+minion-breach-plugin
+Addon-Tests
+minion-backend
+sumobot
+mortar-app-stub
+nightlytt
+deuxdrop
+oneanddone-tests
+pad
+inventory
+schematic
+mozilla-central
+chatspaces
+datadog_hp_health
+slowparse
+webtools-workermgmt
+input-lib
+sops
+mortar-tab-view
+persona
+popcorn-editor
+shielddash
+socorrolib
+KitchenSink
+ipquest
+labs-vcap
+make.mozilla.org
+webmaker-android
+thimble-takedown
+mozilla-infobar
+payments-service
+openhab-distro
+butter
+spiderflunky
+mofo-bootstrap
+webdev-manager-resources
+mwos-letsencrypt-2015
+wordpress-plugins
+markup
+remoteobjects
+telemetry-analysis-service
+fxapom
+i18n-abide
+ascendproject
+mozillafestival.org
+MakeAPI
+bouncer-tests
+CSOL-site
+yaocho
+stooge
+mozilla-identity
+fxa-content-experiments
+build-partner-repacks
+r2d2b2g
+fxa-oauth-server
+parquet2hive
+mig
+webmaker-user-client
+amo-validator
+inv-tool
+hookshot
+persona-roadmap
+bsd-forms-and-wrappers
+node-client-sessions
+transonic
+monolith-aggregator
+webapps-spec
+aws-lambda-telemetry
+socorro-crashstats
+woodstock
+node-firefox-cli
+masterfirefoxos
+source
+universal-search-gecko-dev
+webqabot
+mediawiki-bugzilla
+mozcommitbuilder
+marketplay
+fxa-dev
+tofino
+mofo-cms-experiment
+solitude
+mozilla-opennews
+around
+fxa-js-client-old
+oneanddone
+rna
+node-firefox-reload-css
+marketplace-elements
+community-data
+contribute.json
+openbadges-validator-service
+scrumbugz
+webpay
+webliteracymap
+micro-email-validator
+briar-patch
+webmaker-curriculum
+doctorjs
+build-relengapi-skeleton
+django-session-csrf
+openbadger
+shield-studies-addon-utils
+minion-skipfish-plugin
+sauropod
+marketpulse
+caravela
+firefox-ui-tests
+node-firefox-find-devices
+marketplace-style-guide
+treeherder-tests
+server-side-tls
+popcorn.webmaker.org
+trackertest
+emr-bootstrap-presto
+build-autoland
+mozilla-club-activity-story-of-us
+webdev-bootcamp
+mozmill-dashboard
+watchdog-manager
+openbadges-verifier
+firefox-app-validator-central
+mysql-patcher
+Garmr
+task.js
+mozilla-badges
+node-firefox-console
+mozdef_client
+ttw-podcast
+watchdog-visualhash
+badges.mozillafestival.org
+socorro-docs
+localForage-backbone
+participation-curriculum
+loop
+signing-clients
+browserid-certifier
+mozilla.github.io
+browserid-verifier
+payments-example
+node-firefox-install-app
+hivelearningnetworks.org
+test-amo-validator
+openbadges-cem
+oghliner
+Fira
+autophone
+rhino
+ubiquity
+fxa-content-server-l10n
+community-teaching-training
+autolander
+releasewarrior
+cheesecake
+kanbanzilla
+mozbase-deprecated
+mozillians-lib
+nuggets
+moztrap-connect
+releasetasks
+django-recaptcha
+partinfra-terraform
+dispensary
+zest
+bugzilla-readable-status
+login.webmaker.org
+fxa-oauth-console
+minion-vm
+node-webmaker-butler
+firehug
+lorax
+zamboni-lib
+sheriffs
+donate.mozilla.org
+build-tooltool
+webmaker-download-locales
+readability
+fxa-password-strength-checker
+tincan
+boards
+ace
+browserid_addon
+popcoder
+wsoh
+bugzfeed
+fxa-auth-db-mem
+marketplace-operator-dashboard
+node-firefox-find-simulators
+galaxy.js
+ceci
+addons
+payments-l10n
+mozillians-ldap
+test-informant
+ember-localforage
+mozmonument-sf
+webmaker-language-picker
+mozjpeg
+moz-crash-rate-aggregates
+mofo-allhands-event-app-data-processor
+PyHawk
+wadi
+webmaker-mailroom
+socorro-infra
+gombot
+watchdog
+build-vcs2aws
+web-lit-training
+node-convict
+mozmill-automation
+mozilla-club-activity-ping-kong
+dynamicua_update_script
+marketplace-gulp
+payments-config
+ansible-playbook-sensu
+sumo-tests
+rocketfuel
+togetherjs
+webmaker-personas
+wp-offline-shell
+fxa-relier-client
+fxa-profile-server
+releasehealth
+PyPOM
+pocketsphinx
+verbatim
+universal-search-recommendation
+releng-jacuzzis
+popcornjs.org
+relnotes
+chromeless
+badgekit-api
+surveillance.mozilla.org
+mortar-privileged-remote-app
+react-i18n
+node-hubble
+openhab-core
+advocacy.mozilla.org
+moz-grid-config
+makeapi-client
+goggles.mozilla.org
+testpilot2
+fxa-python-client
+hackablegames
+domesday
+web-ext
+moz-games
+build-runner
+participation-org
+input-tests
+cipherscan
+Snappy-Symbolication-Server
+badges.mozilla.org
+mozmill-ci
+stun-vm
+security
+acidity
+darjeeling
+firefox-app-validator-manifest
+clubs-events
+webmaker-profile-service
+fxa-js-client
+mofo-metrics
+build-blobber
+energia
+webdev
+webmaker-suite
+webmaker-landing-pages
+FlightDeck
+rainbow
+memchaser
+DropItLike
+firefox-roku
+antenna
+MozStumbler
+scribe
+PyBrowserID
+learning.mozilla.org
+firefox10.org
+browserid-crypto
+gamesaver
+getanaccount
+webmaker-kits
+fxa-auth-mailer
+browserid-cookbook
+mortar-layouts
+tardy
+marketplace-certs
+universal-search
+node-firefox-forward-ports
+WebGameStub
+basket-client
+ca-policy
+mozplatformqa-jenkins-config
+mozilla-flask-crb
+dragnet
+serviceworker-cookbook
+nucleus
+sign-addon
+positron
+lumberyard
+mozhacks
+jmeter-scripts
+shumway
+webmaker-browser
+addons-bots
+botio-files-pdfjs
+openbadges-validator
+reclama
+webdev-blog
+mozmill-environment
+hapi-fxa-oauth
+swift-json
+deprecated-treestatus
+moz-dev-contrib
+1036
+
+Linear Regression
+('Coefficients: \n', array([-0.49731861,  0.03291607,  0.43677609,  0.17148845, -0.02222639,
+        0.        ,  0.        ,  0.        , -0.39540611,  0.        ]))
+Mean squared error: 618.41
+Variance score: 0.44
+
+Decision tree Regression
+Mean squared error: 529.82
+Variance score: 0.52
+
+feature importance [ 0.08584118  0.46809688  0.20668127  0.01962882  0.17652368  0.          0.
+  0.          0.04322818  0.        ]
+Ensemble actual no of contributors [ 30   4   4   7  88  35   3   1   1   7  38  14   3   1   1   3  10  29
+   4   3   3   4   3   7   1  11   2  19   5  12   6  21   5   5   9   8
+   7  10 137   6 134   3  25   9   5   4   1   8  15   3   9   3  12   5
+   2  23   8   4  30   9   7   3  11   9  12   2  55   8   5  63   6   9
+   2   3   7   2   1   1  11   9   7   2   9  51   2   2   1   1   7   9
+  97   4   2  24  24  15   8  10   2   2   1  53  20  11   2  19   5   1
+  35   8 215   5   8  12  26   8   2   2   4  15   7   1   4  81  32   4
+   4   2   6   3  26  17   7  41   3   8   8   3  24   6   4 106  23  32
+   5  84  40   2   1   8  10   8   6   4  19   2   2   1  18  13  10  11
+  18  36   4   1   2 219   2  13  85   3  35   2   2   3  29  25   7   2
+   2  30   3   6  11   2   4   4   4  26   6   4  12   5  12   4 255  32
+   1   3  17   7  16  14   3   1   7   2]
+Ensemble predicted no of contributors [ 11   3   3   5  13  17   3   2   1   7   9   7   4   1   1   3   9  11
+   5   2   1   4   3   7   1  10   3  39   8   9   5   9   3   4   6   6
+  18  12  21   3  28   2  15   6   6   3   2  14   8   2   7   3   9   9
+   2  10   5   4   7  13   9   2   4   9   7   2  31  11   3  31   4   9
+   4   2   7   5   1   1  11   8   9   3   7  11   2   2   2   1   2   9
+  21   2   2  31  12  13  17  13   2   3   1  14  20   7   3  14   7   1
+   7  13 170   2  25  12   7   4   4   7   4  20   2   1   3  27  17   4
+   5   2  16   3  10  15  17  14   3   4  14   1  20  11   3  51  14  25
+   5  16  49   3   2  11  13  16   6   2  24   7   2   2   4  10   8  23
+   1  49   2   1   7 123   2  11  27   2   9   2   2   6  26  12   7   3
+   2  25   3   5   6   2   5   2   5  25   3   4  12   6   7   6  43  17
+   1   3  20   9   3  31   3   1   5   2]
+Accuracy:  0.259615384615 F1 Score:  0.245675305931 R2 score 0.477913317617
+KNN actual no of contributors [ 30   4   4   7  88  35   3   1   1   7  38  14   3   1   1   3  10  29
+   4   3   3   4   3   7   1  11   2  19   5  12   6  21   5   5   9   8
+   7  10 137   6 134   3  25   9   5   4   1   8  15   3   9   3  12   5
+   2  23   8   4  30   9   7   3  11   9  12   2  55   8   5  63   6   9
+   2   3   7   2   1   1  11   9   7   2   9  51   2   2   1   1   7   9
+  97   4   2  24  24  15   8  10   2   2   1  53  20  11   2  19   5   1
+  35   8 215   5   8  12  26   8   2   2   4  15   7   1   4  81  32   4
+   4   2   6   3  26  17   7  41   3   8   8   3  24   6   4 106  23  32
+   5  84  40   2   1   8  10   8   6   4  19   2   2   1  18  13  10  11
+  18  36   4   1   2 219   2  13  85   3  35   2   2   3  29  25   7   2
+   2  30   3   6  11   2   4   4   4  26   6   4  12   5  12   4 255  32
+   1   3  17   7  16  14   3   1   7   2]
+KNN predicted no of contributors [ 26   2   3   5  20  16   3   2   1   5   9  26   3   1   1   3   9   6
+   3   3   2   5   3   3   1   4   4  20   4  10   5   9   3   4   3   5
+   5  12  14   3  12   3  18   3   3   3   2   3   5   2   4   5   9   3
+   3  14   8   2  11   5   3   3   7   9   7   2 106  13   3  12   5   3
+   2   3   6   2   1   1  11   6   2   2   4  18   2   2   2   1   2   3
+  11   3   3  10  12   6  12   5   2   5   1  18  20   3   3  14   7   2
+  11  13  49   2  16   3   7   3   3   2   2  18   3   1   2  27  20   4
+   2   2  10   2  10  10   5  12   3   4   2   2  20   7   3  30   9  11
+   6  16  26   3   2   8   5   6   5   2  20   5   2   2   2   6   6   7
+   7  26   2   1   8  97   2   8  27   2   6   2   2   4  26   3   4   3
+   2  12   2   6   6   2   5   2   3  12   3   3   7   6   8   6  27  11
+   1   3  11   7   4  12   3   1   8   2]
+Accuracy:  0.225961538462 F1 Score:  0.20171258149 R2 score:  0.261604412569
+Stochastic Gradient Descent prediction [ 49  49  49  49  49  49  49  49  43  49  49  49  49  43  43  49  49  49
+  49  49  49  49  49  49  49  49  49  49  49  49  49  49  49  43  49  49
+  49  49  49  49  49  49  49  49  49  49  49  49  49  49 122  49  49 122
+  49  49  49  43  49  49  49  49  49  49 122 122  49  49  49  49  49  49
+  49  49  49  49 122  43  49  49  49  43  49  49  49  43  49  43  49  49
+  49  49  49  49  49  49  49  49  43  49  49  49  49  49  49  49  49 122
+  49 122  49  43  49  49  49  49  49  49  49  49  49  43  49  49  49  49
+  49  49  49  49  49  49  49  49  49  49  14 122  49  49  49  49  49  49
+  49  49  49  49  43  49 122  49  49  49  49  49  49  49  49  49  49  49
+  49  49  49  49  49  49  49  49  49  43  49  49  43  49  49  49  49 122
+  49  49  49  49  49  49  49  49  49  49  49  49  49  49  49  49  49  49
+  49  49  49  49  49  49  49   2  49  49]
+R2 score:  -1.38032619022
+Elastic Net [  2.15112512e+01   3.06833214e+00   3.38889278e+00   1.04100126e+01
+   2.91208296e+01   7.54089233e+00   2.86224099e+00   2.53308363e+00
+   2.83792198e+00   7.29308550e+00   7.43096309e+00   2.08633508e+01
+   4.78812894e+00   2.83792198e+00   2.83792198e+00   3.75956261e+00
+   4.94958139e+00   1.23902607e+01   6.62513840e+00   2.79640952e+00
+   3.34025476e+00   6.32133568e+00   3.43900197e+00   4.49230554e+00
+   2.43433642e+00   6.89515432e+00   4.10591343e+00   3.24252835e+01
+   3.80522110e+00   7.63945565e+00   2.88595990e+00   1.06475483e+01
+   4.12163571e+00   4.24617310e+00   3.93273802e+00   2.61716351e+00
+   1.12500995e+01   3.39980461e+01   3.80804552e+01   5.40387625e+00
+   5.13302116e+01   2.37606603e+00   1.39189842e+01   3.61930294e+00
+   2.84001258e+00   4.94600030e+00   2.46725215e+00   5.29131548e+00
+   4.35857133e+00   2.42279533e+00   2.78863139e+00   2.97714602e+00
+   4.87613827e+00   2.10705261e+00   3.05973541e+00   1.62732946e+01
+   1.02626253e+01   4.59148829e+00   1.50209235e+01   5.27074214e+00
+   4.14639026e+00   2.37606603e+00   1.28193655e+01   1.01775505e+01
+   2.63388627e+00   2.35696385e+00   1.53511954e+02   4.83718520e+00
+   4.64116194e+00   6.53878518e+01   4.63969078e+00   5.06046979e+00
+   2.96958493e+00   2.37606603e+00   1.20444906e+01   3.50483344e+00
+   2.37919227e+00   2.83792198e+00   5.16634256e+00   3.40599860e+00
+   4.22794402e+00   1.21690280e+01   3.90443901e+00   2.74534689e+01
+   2.56599936e+00   2.34315030e+00   2.46725215e+00   2.83792198e+00
+   4.34492031e+00   3.63546075e+00   3.82017427e+01   2.99390394e+00
+   2.96098820e+00   1.55646857e+01   9.19065916e+00   6.04527052e+00
+   1.61699780e+01   2.62072836e+01   4.61684293e+00   1.03921977e+01
+   2.43433642e+00   2.17535973e+01   1.58310412e+01   1.13446635e+01
+   2.86224099e+00   1.32868843e+01   1.29178143e+00   2.33473544e+00
+   2.30938780e+01   1.37563789e+00   1.23856808e+02   5.58859275e+00
+   1.04104481e+01   7.79960150e+00   2.00547065e+01   4.36923932e+00
+   3.35597704e+00   5.67373512e-01   3.87550327e+00   2.04320648e+01
+   2.96098820e+00   2.83792198e+00   2.43348265e+00   3.76022631e+01
+   2.55263139e+01   3.46332098e+00   3.50483344e+00   2.90375346e+00
+   3.74013332e+00   2.67519012e+00   1.65338108e+01   1.27912524e+01
+   4.14833561e+00   2.72612127e+01   5.78608717e+00   7.38889037e+00
+   4.25312322e+00   2.31250703e+00   2.49111118e+01   8.86653473e+00
+   5.63723077e+00   5.45399476e+01   1.04409865e+01   1.91364345e+01
+   3.56415879e+00   3.63195714e+01   1.06168625e+02   2.93666919e+00
+   5.08625997e+00   9.90725955e+00   2.21449078e+00   5.02481089e+00
+   5.38103044e+00   4.21043242e-01   2.91054732e+00   8.13317237e+00
+   2.46725215e+00   2.46725215e+00   5.24077076e+00   9.17787922e+00
+   3.79162458e+00   3.69414469e+00   9.16044940e+00   5.92979995e+01
+   2.56599936e+00   2.43433642e+00   8.17321366e+00   1.80597931e+02
+   2.90375346e+00   7.61261051e+00   2.74799039e+02   2.34315030e+00
+   1.78069393e+01   2.53308363e+00   4.61684293e+00   3.84258754e+00
+   2.31484027e+01   7.15031902e+00   3.83860754e+00   3.24065378e+00
+   2.46725215e+00   3.39215467e+01   3.47191771e+00   1.01668225e+01
+   3.55347146e+00   2.46725215e+00   2.54064472e+00   3.90841901e+00
+   3.36666437e+00   3.24317418e+01   4.19606391e+00   5.30807340e+00
+   1.91486354e+01   3.17464044e+00   8.73278119e+00   2.69766231e+00
+   4.22843098e+02   2.91935776e+01   2.43433642e+00   2.63183084e+00
+   9.60311242e+00   4.33528795e+00   3.02681968e+00   8.90634169e+00
+   2.63183084e+00   2.00827866e+00   3.22920381e+00   2.50016789e+00]
+R2 score:  0.444951556134
+Lasso [  21.51278549    3.06829999    3.38890294   10.40975849   29.11940795
+    7.54124138    2.86225437    2.53309902    2.83789124    7.29262908
+    7.4307156    20.86320936    4.78831759    2.83789124    2.83789124
+    3.75952624    4.95017794   12.39096533    6.62518337    2.7964233
+    3.34017667    6.32097375    3.43892328    4.49222042    2.43435241
+    6.89505452    4.10578639   32.42511362    3.8055475     7.63985879
+    2.88674639   10.64742557    4.12159713    4.24600094    3.93265631
+    2.61758704   11.24975168   33.99618691   38.08221881    5.40360822
+   51.33675256    2.37649115   13.91888547    3.61931169    2.84002598
+    4.94577958    2.46726795    5.29145715    4.35939309    2.42281115
+    2.78900888    2.97752319    4.87612346    2.10788718    3.05974759
+   16.25935425   10.26188489    4.5916785    15.02664936    5.27065201
+    4.14667174    2.37649115   12.81860953   10.17915411    2.63426422
+    2.35698008  153.50857709    4.83718651    4.64098736   65.38882046
+    4.6396933     5.06033692    2.96955338    2.37649115   12.04360674
+    3.50475435    2.37920848    2.83789124    5.16634186    3.40600662
+    4.22831354   12.16801055    3.90472173   27.45195959    2.56601455
+    2.34357561    2.46726795    2.83789124    4.34474754    3.6358339
+   38.20415748    2.99391652    2.96100098   15.54953562    9.19058961
+    6.04676669   16.17399776   26.20534875    4.61662423   10.3914123
+    2.43435241   21.75310714   15.83097539   11.34382809    2.86225437
+   13.27335068    1.29620681    2.33475169   23.0937675     1.37615662
+  123.85936106    5.58827956   10.41046997    7.79958471   20.05443691
+    4.36911068    3.35598741    0.56992048    3.87537764   20.43263476
+    2.96100098    2.83789124    2.43349829   37.60388665   25.52894481
+    3.46328642    3.50475435    2.90372231    3.74209661    2.67566428
+   16.53334217   12.79120486    4.15061639   27.26068872    5.78577278
+    7.38878755    4.25040763    2.31252329   24.91102425    8.86615712
+    5.63700583   54.53964523   10.44095234   19.13708117    3.56416776
+   36.3165912   106.16628043    2.93663785    5.08599413    9.90692969
+    2.21491353    5.02513056    5.38093988    0.42399975    2.92764871
+    8.13262227    2.46726795    2.46726795    5.24072534    9.17736701
+    3.79158765    3.69414295    9.15984803   59.29585072    2.56601455
+    2.43435241    8.17279614  180.63099026    2.90372231    7.61264944
+  274.79637182    2.34357561   17.80688654    2.53309902    4.61662423
+    3.84246211   23.14807076    7.15053788    3.83889066    3.24057595
+    2.46726795   33.92063825    3.47183882   10.16612714    3.55348062
+    2.46726795    2.54106883    3.90829318    3.36667455   32.43088675
+    4.1959806     5.30785048   19.14739816    3.1750164     8.73236024
+    2.6976767   422.82427839   29.21165773    2.43435241    2.63184562
+    9.60423267    4.33561255    3.02683205    8.90631754    2.63184562
+    2.00880117    3.23125877    2.50018348]
+R2 score:  0.445009222168

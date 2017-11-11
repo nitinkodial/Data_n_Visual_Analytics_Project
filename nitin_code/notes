@@ -1,0 +1,69 @@
+use anaconda python which is valid only for that terminal session:
+export PATH=$HOME/anaconda/bin:$PATH
+
+to use spyder ide after using anaconda's python:
+spyder
+
+//change date string to datetime format
+db.collection.find().forEach(function(element){
+  element.OrderDate = ISODate(element.OrderDate);
+  db.collection.save(element);
+})
+
+	"assignees",-
+	"branches",-
+	"comments",-
+	"contents",-
+	"contributors",-
+	"deployments",-
+	"downloads",-
+	"events",-
+	"forks",-
+	"git_refs",-
+	"issue_comment",-
+	"issues",-
+	"labels",-
+	"languages",-
+	"milestones",-
+	"organization",-
+	"public_members",-
+	"pulls",-
+	"releases",-
+	"repositories",-
+	"review_comments",-
+	"stargazers",-
+	"subscribers",-
+	"tags"
+
+db.<CollectionName>.find().forEach(function(element){
+  element.created_at = ISODate(element.created_at);
+  db.<CollectionName>.save(element);
+})
+	
+	
+db.tags.find().forEach(function(element){
+  element.created_at = ISODate(element.created_at);
+  db.tags.save(element);
+})
+
+-Don't forget to change string to datetime format for commits and issue_events
+
+
+using linear regression:
+using all attributes:
+
+Mean squared error: 191.23
+Variance score: 0.33
+
+
+gaussian processes
+xgboost
+random forest regression
+lasso regression
+support vector regression
+bayesian regression
+ritz regression
+
+sudo apt-get install build-essential cython python-numpy
+git config --global http.sslverify false
+pip install -e "git+https://github.com/perrygeo/jenks.git#egg=jenks"
