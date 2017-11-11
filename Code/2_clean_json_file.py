@@ -1,0 +1,6 @@
+f = open("commits.json","r+")
+d = f.read()
+f.seek(0)
+f.write(','.join(d.split('][')))
+f.truncate()
+f.close()
